@@ -4,6 +4,10 @@ import org.testng.annotations.Test;
 
 public class SeleniumTest {	
 	
+	/*
+	 * selenium_issue_fix branch
+	 */
+	
 	@Test
 	public void BrowserAutomation() {
 		
